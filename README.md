@@ -1,8 +1,9 @@
-## Skills
-
-- Python, PyTorch
-
-![RAM](https://img.shields.io/badge/RAM-64GB-blue)
+<div align="center">
+  <img width="64" height="64" alt="Python" src="https://skillicons.dev/icons?i=python" />
+  <img width="64" height="64" alt="PyTorch" src="https://github.com/user-attachments/assets/49a733ad-012b-4a18-be4e-7dc52e4a2cc6" />
+  <hr>
+  <img alt="RAM" src="https://img.shields.io/badge/RAM-64GB-blue" />
+</div>
 
 <!--
 **hojun-code/hojun-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
